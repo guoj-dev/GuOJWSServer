@@ -1,6 +1,6 @@
 # GuOJWSServer
 
-!()[https://github.com/guoj-dev/GuOJWSServer/workflows/Node%20CI/badge.svg]
+![](https://github.com/guoj-dev/GuOJWSServer/workflows/Node%20CI/badge.svg)
 
 A flexable Websocket & HTTP Server for GuOJ Project.
 
